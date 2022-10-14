@@ -20,6 +20,8 @@ public class Menu {
             switch (number){
                 case 1:
                     System.out.println("Your choise item 1");
+                    AnimalWrite w = new AnimalWrite();
+                    w.animalWriting();
                     break;
                 case 2:
                     System.out.println("Your choise item 2");
