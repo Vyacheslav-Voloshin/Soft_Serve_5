@@ -5,7 +5,7 @@ import java.io.IOException;
 public class  Solution {
     public static void main(String[] args) throws IOException {
         Menu menu = new Menu();
-        menu.Men();
+        menu.Menu1();
     }
 
 }
