@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 //*Клас Menu рефлізує інтефейс меню для роботи з програмою.
-//fv
 
 
 public class Menu {

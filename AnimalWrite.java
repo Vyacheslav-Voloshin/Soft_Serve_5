@@ -5,6 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 /*Клас AnimalWrite реалізує методи, які необхідні для функціонування класу Menu
+
 * Метод AnimalWriting реалізує введення з клавіатури типу тварини
 * Метод AnimalPrint реалізує виведення на екран списку введених тварин
 * Метод AnimalCount реалізує введення з клавіатури кількості тварин
